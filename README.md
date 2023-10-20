@@ -1,16 +1,20 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e17eb&height=180&&section=header&text=Henry%20Jooste&fontSize=40&fontAlignY=32&fontColor=fff"/>
 
-<!--
-**hfjooste/hfjooste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfjooste&theme=transparent&hide_border=true&stroke=0000&ring=5e17eb&fire=5e17eb&currStreakLabel=0080FF" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hfjooste&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0000&hide=contribs" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfjooste&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0000&langs_count=3">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Main Skills<h3>
+  <img src="https://img.shields.io/badge/-C++-5e17eb?style=for-the-badge&logo=cplusplus&labelColor=0D1117&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-CSharp-5e17eb?style=for-the-badge&logo=csharp&labelColor=0D1117&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Python-5e17eb?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=fff" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-5e17eb?style=for-the-badge&logo=unrealengine&labelColor=0D1117&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Unity-5e17eb?style=for-the-badge&logo=unity&labelColor=0D1117&logoColor=fff" />
+</div>
