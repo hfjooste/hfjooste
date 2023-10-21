@@ -1,7 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e17eb&height=180&&section=header&text=Henry%20Jooste&fontSize=40&fontAlignY=32&fontColor=fff"/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfjooste&theme=transparent&hide_border=true&stroke=0000&ring=5e17eb&fire=5e17eb&currStreakLabel=0080FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfjooste&theme=transparent&hide_border=true&stroke=0000&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" />
 </div>
 
 <div align="center">
